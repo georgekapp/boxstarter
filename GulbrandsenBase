@@ -1,4 +1,4 @@
-Set-WindowsExplorerOptions -showHiddenFilesFoldersDrives -showProtectedOSFiles -shoFileExtensions
+
 Enable-RemoteDesktop
 
 cinst javaruntime
