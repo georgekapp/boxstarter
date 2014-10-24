@@ -1,0 +1,9 @@
+Set-ExplorerOptions -showHidenFilesFoldersDrives -showProtectedOSFiles -shoFileExtensions
+Enable-RemoteDesktop
+cinst javaruntime
+cinst GoogleChrome-AllUsers
+cinst adobereader
+cinst flashplayeractivex
+cinst flashplayerplugin
+cinst googledrive
+
