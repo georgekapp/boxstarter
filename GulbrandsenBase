@@ -1,5 +1,6 @@
-Set-ExplorerOptions -showHidenFilesFoldersDrives -showProtectedOSFiles -shoFileExtensions
+Set-WindowsExplorerOptions -showHiddenFilesFoldersDrives -showProtectedOSFiles -shoFileExtensions
 Enable-RemoteDesktop
+
 cinst javaruntime
 cinst GoogleChrome-AllUsers
 cinst adobereader
